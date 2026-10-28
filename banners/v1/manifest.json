@@ -1,0 +1,755 @@
+{
+ "version": 1,
+ "count": 107,
+ "banners": [
+  {
+   "id": "c8bc6ea8ec",
+   "category": "gas",
+   "path": "banners/v1/gas/c8bc6ea8ec.webp",
+   "alt": "Banner Gas Sài Gòn — Bình gas",
+   "square": false
+  },
+  {
+   "id": "1d1d15ebc3",
+   "category": "gas",
+   "path": "banners/v1/gas/1d1d15ebc3.webp",
+   "alt": "Banner Gas Sài Gòn — Bình gas",
+   "square": false
+  },
+  {
+   "id": "978479bc42",
+   "category": "gas",
+   "path": "banners/v1/gas/978479bc42.webp",
+   "alt": "Banner Gas Sài Gòn — Bình gas",
+   "square": false
+  },
+  {
+   "id": "b7317b8356",
+   "category": "gas",
+   "path": "banners/v1/gas/b7317b8356.webp",
+   "alt": "Banner Gas Sài Gòn — Bình gas",
+   "square": false
+  },
+  {
+   "id": "b351944570",
+   "category": "gas",
+   "path": "banners/v1/gas/b351944570.webp",
+   "alt": "Banner Gas Sài Gòn — Bình gas",
+   "square": false
+  },
+  {
+   "id": "c7097ab1cd",
+   "category": "gas",
+   "path": "banners/v1/gas/c7097ab1cd.webp",
+   "alt": "Banner Gas Sài Gòn — Bình gas",
+   "square": false
+  },
+  {
+   "id": "72f15579ad",
+   "category": "gas",
+   "path": "banners/v1/gas/72f15579ad.webp",
+   "alt": "Banner Gas Sài Gòn — Bình gas",
+   "square": false
+  },
+  {
+   "id": "ea84c003bc",
+   "category": "gas",
+   "path": "banners/v1/gas/ea84c003bc.webp",
+   "alt": "Banner Gas Sài Gòn — Bình gas",
+   "square": false
+  },
+  {
+   "id": "0899bd6121",
+   "category": "gas",
+   "path": "banners/v1/gas/0899bd6121.webp",
+   "alt": "Banner Gas Sài Gòn — Bình gas",
+   "square": false
+  },
+  {
+   "id": "155b1cd309",
+   "category": "gas",
+   "path": "banners/v1/gas/155b1cd309.webp",
+   "alt": "Banner Gas Sài Gòn — Bình gas",
+   "square": false
+  },
+  {
+   "id": "eaecd1a240",
+   "category": "gas",
+   "path": "banners/v1/gas/eaecd1a240.webp",
+   "alt": "Banner Gas Sài Gòn — Bình gas",
+   "square": false
+  },
+  {
+   "id": "05ea4628d5",
+   "category": "gas",
+   "path": "banners/v1/gas/05ea4628d5.webp",
+   "alt": "Banner Gas Sài Gòn — Bình gas",
+   "square": true
+  },
+  {
+   "id": "049b622496",
+   "category": "gas",
+   "path": "banners/v1/gas/049b622496.webp",
+   "alt": "Banner Gas Sài Gòn — Bình gas",
+   "square": false
+  },
+  {
+   "id": "db99fdf58a",
+   "category": "gas",
+   "path": "banners/v1/gas/db99fdf58a.webp",
+   "alt": "Banner Gas Sài Gòn — Bình gas",
+   "square": false
+  },
+  {
+   "id": "8f10a5cce6",
+   "category": "gas",
+   "path": "banners/v1/gas/8f10a5cce6.webp",
+   "alt": "Banner Gas Sài Gòn — Bình gas",
+   "square": false
+  },
+  {
+   "id": "349e6ec1ea",
+   "category": "gas",
+   "path": "banners/v1/gas/349e6ec1ea.webp",
+   "alt": "Banner Gas Sài Gòn — Bình gas",
+   "square": true
+  },
+  {
+   "id": "08ed8cfae1",
+   "category": "gas",
+   "path": "banners/v1/gas/08ed8cfae1.webp",
+   "alt": "Banner Gas Sài Gòn — Bình gas",
+   "square": false
+  },
+  {
+   "id": "fa8092a8f5",
+   "category": "gas",
+   "path": "banners/v1/gas/fa8092a8f5.webp",
+   "alt": "Banner Gas Sài Gòn — Bình gas",
+   "square": false
+  },
+  {
+   "id": "cf147d5341",
+   "category": "gas",
+   "path": "banners/v1/gas/cf147d5341.webp",
+   "alt": "Banner Gas Sài Gòn — Bình gas",
+   "square": false
+  },
+  {
+   "id": "61d9f01ecf",
+   "category": "stoves",
+   "path": "banners/v1/stoves/61d9f01ecf.webp",
+   "alt": "Banner Gas Sài Gòn — Bếp gas",
+   "square": true
+  },
+  {
+   "id": "dc17bd02c0",
+   "category": "stoves",
+   "path": "banners/v1/stoves/dc17bd02c0.webp",
+   "alt": "Banner Gas Sài Gòn — Bếp gas",
+   "square": false
+  },
+  {
+   "id": "175573dc61",
+   "category": "stoves",
+   "path": "banners/v1/stoves/175573dc61.webp",
+   "alt": "Banner Gas Sài Gòn — Bếp gas",
+   "square": false
+  },
+  {
+   "id": "7b25d182a5",
+   "category": "stoves",
+   "path": "banners/v1/stoves/7b25d182a5.webp",
+   "alt": "Banner Gas Sài Gòn — Bếp gas",
+   "square": true
+  },
+  {
+   "id": "1ea1f218df",
+   "category": "stoves",
+   "path": "banners/v1/stoves/1ea1f218df.webp",
+   "alt": "Banner Gas Sài Gòn — Bếp gas",
+   "square": false
+  },
+  {
+   "id": "fa53c63ad9",
+   "category": "stoves",
+   "path": "banners/v1/stoves/fa53c63ad9.webp",
+   "alt": "Banner Gas Sài Gòn — Bếp gas",
+   "square": false
+  },
+  {
+   "id": "3918e6781b",
+   "category": "stoves",
+   "path": "banners/v1/stoves/3918e6781b.webp",
+   "alt": "Banner Gas Sài Gòn — Bếp gas",
+   "square": false
+  },
+  {
+   "id": "542073b164",
+   "category": "stoves",
+   "path": "banners/v1/stoves/542073b164.webp",
+   "alt": "Banner Gas Sài Gòn — Bếp gas",
+   "square": false
+  },
+  {
+   "id": "56ff2d96b1",
+   "category": "stoves",
+   "path": "banners/v1/stoves/56ff2d96b1.webp",
+   "alt": "Banner Gas Sài Gòn — Bếp gas",
+   "square": true
+  },
+  {
+   "id": "a224d9664f",
+   "category": "stoves",
+   "path": "banners/v1/stoves/a224d9664f.webp",
+   "alt": "Banner Gas Sài Gòn — Bếp gas",
+   "square": true
+  },
+  {
+   "id": "18db53db61",
+   "category": "stoves",
+   "path": "banners/v1/stoves/18db53db61.webp",
+   "alt": "Banner Gas Sài Gòn — Bếp gas",
+   "square": false
+  },
+  {
+   "id": "141181009b",
+   "category": "stoves",
+   "path": "banners/v1/stoves/141181009b.webp",
+   "alt": "Banner Gas Sài Gòn — Bếp gas",
+   "square": false
+  },
+  {
+   "id": "60f25e2f09",
+   "category": "stoves",
+   "path": "banners/v1/stoves/60f25e2f09.webp",
+   "alt": "Banner Gas Sài Gòn — Bếp gas",
+   "square": false
+  },
+  {
+   "id": "87902959d0",
+   "category": "stoves",
+   "path": "banners/v1/stoves/87902959d0.webp",
+   "alt": "Banner Gas Sài Gòn — Bếp gas",
+   "square": false
+  },
+  {
+   "id": "9f73d8bb21",
+   "category": "stoves",
+   "path": "banners/v1/stoves/9f73d8bb21.webp",
+   "alt": "Banner Gas Sài Gòn — Bếp gas",
+   "square": true
+  },
+  {
+   "id": "5c04c1d7d2",
+   "category": "stoves",
+   "path": "banners/v1/stoves/5c04c1d7d2.webp",
+   "alt": "Banner Gas Sài Gòn — Bếp gas",
+   "square": true
+  },
+  {
+   "id": "d660d54d28",
+   "category": "stoves",
+   "path": "banners/v1/stoves/d660d54d28.webp",
+   "alt": "Banner Gas Sài Gòn — Bếp gas",
+   "square": false
+  },
+  {
+   "id": "0c1f062808",
+   "category": "stoves",
+   "path": "banners/v1/stoves/0c1f062808.webp",
+   "alt": "Banner Gas Sài Gòn — Bếp gas",
+   "square": false
+  },
+  {
+   "id": "02ce0217c4",
+   "category": "stoves",
+   "path": "banners/v1/stoves/02ce0217c4.webp",
+   "alt": "Banner Gas Sài Gòn — Bếp gas",
+   "square": true
+  },
+  {
+   "id": "602a2dbc64",
+   "category": "stoves",
+   "path": "banners/v1/stoves/602a2dbc64.webp",
+   "alt": "Banner Gas Sài Gòn — Bếp gas",
+   "square": true
+  },
+  {
+   "id": "4234bace1f",
+   "category": "stoves",
+   "path": "banners/v1/stoves/4234bace1f.webp",
+   "alt": "Banner Gas Sài Gòn — Bếp gas",
+   "square": false
+  },
+  {
+   "id": "523491d960",
+   "category": "all",
+   "path": "banners/v1/all/523491d960.webp",
+   "alt": "Banner Gas Sài Gòn — Sản phẩm Gas Sài Gòn",
+   "square": false
+  },
+  {
+   "id": "d9866658c0",
+   "category": "all",
+   "path": "banners/v1/all/d9866658c0.webp",
+   "alt": "Banner Gas Sài Gòn — Sản phẩm Gas Sài Gòn",
+   "square": false
+  },
+  {
+   "id": "dc518dc56f",
+   "category": "all",
+   "path": "banners/v1/all/dc518dc56f.webp",
+   "alt": "Banner Gas Sài Gòn — Sản phẩm Gas Sài Gòn",
+   "square": false
+  },
+  {
+   "id": "4321542212",
+   "category": "all",
+   "path": "banners/v1/all/4321542212.webp",
+   "alt": "Banner Gas Sài Gòn — Sản phẩm Gas Sài Gòn",
+   "square": false
+  },
+  {
+   "id": "ff921f38d8",
+   "category": "all",
+   "path": "banners/v1/all/ff921f38d8.webp",
+   "alt": "Banner Gas Sài Gòn — Sản phẩm Gas Sài Gòn",
+   "square": false
+  },
+  {
+   "id": "919fcb30e9",
+   "category": "all",
+   "path": "banners/v1/all/919fcb30e9.webp",
+   "alt": "Banner Gas Sài Gòn — Sản phẩm Gas Sài Gòn",
+   "square": false
+  },
+  {
+   "id": "0ebfe81582",
+   "category": "all",
+   "path": "banners/v1/all/0ebfe81582.webp",
+   "alt": "Banner Gas Sài Gòn — Sản phẩm Gas Sài Gòn",
+   "square": false
+  },
+  {
+   "id": "6a934edd5e",
+   "category": "all",
+   "path": "banners/v1/all/6a934edd5e.webp",
+   "alt": "Banner Gas Sài Gòn — Sản phẩm Gas Sài Gòn",
+   "square": false
+  },
+  {
+   "id": "0e337afb20",
+   "category": "all",
+   "path": "banners/v1/all/0e337afb20.webp",
+   "alt": "Banner Gas Sài Gòn — Sản phẩm Gas Sài Gòn",
+   "square": false
+  },
+  {
+   "id": "f57da05f63",
+   "category": "all",
+   "path": "banners/v1/all/f57da05f63.webp",
+   "alt": "Banner Gas Sài Gòn — Sản phẩm Gas Sài Gòn",
+   "square": false
+  },
+  {
+   "id": "cea6810c61",
+   "category": "all",
+   "path": "banners/v1/all/cea6810c61.webp",
+   "alt": "Banner Gas Sài Gòn — Sản phẩm Gas Sài Gòn",
+   "square": false
+  },
+  {
+   "id": "7bba0efd0e",
+   "category": "all",
+   "path": "banners/v1/all/7bba0efd0e.webp",
+   "alt": "Banner Gas Sài Gòn — Sản phẩm Gas Sài Gòn",
+   "square": false
+  },
+  {
+   "id": "2ed1d2b20d",
+   "category": "all",
+   "path": "banners/v1/all/2ed1d2b20d.webp",
+   "alt": "Banner Gas Sài Gòn — Sản phẩm Gas Sài Gòn",
+   "square": false
+  },
+  {
+   "id": "a878ddc562",
+   "category": "all",
+   "path": "banners/v1/all/a878ddc562.webp",
+   "alt": "Banner Gas Sài Gòn — Sản phẩm Gas Sài Gòn",
+   "square": false
+  },
+  {
+   "id": "b7dfb502be",
+   "category": "all",
+   "path": "banners/v1/all/b7dfb502be.webp",
+   "alt": "Banner Gas Sài Gòn — Sản phẩm Gas Sài Gòn",
+   "square": false
+  },
+  {
+   "id": "9f9ee4c6b3",
+   "category": "all",
+   "path": "banners/v1/all/9f9ee4c6b3.webp",
+   "alt": "Banner Gas Sài Gòn — Sản phẩm Gas Sài Gòn",
+   "square": true
+  },
+  {
+   "id": "9c4625bbca",
+   "category": "all",
+   "path": "banners/v1/all/9c4625bbca.webp",
+   "alt": "Banner Gas Sài Gòn — Sản phẩm Gas Sài Gòn",
+   "square": false
+  },
+  {
+   "id": "c7c1cbc265",
+   "category": "all",
+   "path": "banners/v1/all/c7c1cbc265.webp",
+   "alt": "Banner Gas Sài Gòn — Sản phẩm Gas Sài Gòn",
+   "square": false
+  },
+  {
+   "id": "10ba8fd98d",
+   "category": "all",
+   "path": "banners/v1/all/10ba8fd98d.webp",
+   "alt": "Banner Gas Sài Gòn — Sản phẩm Gas Sài Gòn",
+   "square": false
+  },
+  {
+   "id": "39dfc7fcfc",
+   "category": "all",
+   "path": "banners/v1/all/39dfc7fcfc.webp",
+   "alt": "Banner Gas Sài Gòn — Sản phẩm Gas Sài Gòn",
+   "square": false
+  },
+  {
+   "id": "0fa2a3e373",
+   "category": "all",
+   "path": "banners/v1/all/0fa2a3e373.webp",
+   "alt": "Banner Gas Sài Gòn — Sản phẩm Gas Sài Gòn",
+   "square": false
+  },
+  {
+   "id": "27fa4da12e",
+   "category": "all",
+   "path": "banners/v1/all/27fa4da12e.webp",
+   "alt": "Banner Gas Sài Gòn — Sản phẩm Gas Sài Gòn",
+   "square": false
+  },
+  {
+   "id": "76ecdebc69",
+   "category": "all",
+   "path": "banners/v1/all/76ecdebc69.webp",
+   "alt": "Banner Gas Sài Gòn — Sản phẩm Gas Sài Gòn",
+   "square": false
+  },
+  {
+   "id": "579aaff23b",
+   "category": "all",
+   "path": "banners/v1/all/579aaff23b.webp",
+   "alt": "Banner Gas Sài Gòn — Sản phẩm Gas Sài Gòn",
+   "square": false
+  },
+  {
+   "id": "9df7ab7f65",
+   "category": "all",
+   "path": "banners/v1/all/9df7ab7f65.webp",
+   "alt": "Banner Gas Sài Gòn — Sản phẩm Gas Sài Gòn",
+   "square": false
+  },
+  {
+   "id": "a8feeb5b50",
+   "category": "all",
+   "path": "banners/v1/all/a8feeb5b50.webp",
+   "alt": "Banner Gas Sài Gòn — Sản phẩm Gas Sài Gòn",
+   "square": false
+  },
+  {
+   "id": "1c25797f51",
+   "category": "all",
+   "path": "banners/v1/all/1c25797f51.webp",
+   "alt": "Banner Gas Sài Gòn — Sản phẩm Gas Sài Gòn",
+   "square": false
+  },
+  {
+   "id": "3db79b15b2",
+   "category": "all",
+   "path": "banners/v1/all/3db79b15b2.webp",
+   "alt": "Banner Gas Sài Gòn — Sản phẩm Gas Sài Gòn",
+   "square": false
+  },
+  {
+   "id": "eb07cb4e65",
+   "category": "all",
+   "path": "banners/v1/all/eb07cb4e65.webp",
+   "alt": "Banner Gas Sài Gòn — Sản phẩm Gas Sài Gòn",
+   "square": false
+  },
+  {
+   "id": "b7761a5699",
+   "category": "all",
+   "path": "banners/v1/all/b7761a5699.webp",
+   "alt": "Banner Gas Sài Gòn — Sản phẩm Gas Sài Gòn",
+   "square": false
+  },
+  {
+   "id": "a72959e9b8",
+   "category": "all",
+   "path": "banners/v1/all/a72959e9b8.webp",
+   "alt": "Banner Gas Sài Gòn — Sản phẩm Gas Sài Gòn",
+   "square": false
+  },
+  {
+   "id": "5a3944db7f",
+   "category": "all",
+   "path": "banners/v1/all/5a3944db7f.webp",
+   "alt": "Banner Gas Sài Gòn — Sản phẩm Gas Sài Gòn",
+   "square": false
+  },
+  {
+   "id": "79760f2001",
+   "category": "all",
+   "path": "banners/v1/all/79760f2001.webp",
+   "alt": "Banner Gas Sài Gòn — Sản phẩm Gas Sài Gòn",
+   "square": false
+  },
+  {
+   "id": "20c62ca05b",
+   "category": "all",
+   "path": "banners/v1/all/20c62ca05b.webp",
+   "alt": "Banner Gas Sài Gòn — Sản phẩm Gas Sài Gòn",
+   "square": false
+  },
+  {
+   "id": "edcb5de8f2",
+   "category": "all",
+   "path": "banners/v1/all/edcb5de8f2.webp",
+   "alt": "Banner Gas Sài Gòn — Sản phẩm Gas Sài Gòn",
+   "square": false
+  },
+  {
+   "id": "06cb16215a",
+   "category": "all",
+   "path": "banners/v1/all/06cb16215a.webp",
+   "alt": "Banner Gas Sài Gòn — Sản phẩm Gas Sài Gòn",
+   "square": false
+  },
+  {
+   "id": "15397bfc21",
+   "category": "all",
+   "path": "banners/v1/all/15397bfc21.webp",
+   "alt": "Banner Gas Sài Gòn — Sản phẩm Gas Sài Gòn",
+   "square": false
+  },
+  {
+   "id": "c465847a01",
+   "category": "all",
+   "path": "banners/v1/all/c465847a01.webp",
+   "alt": "Banner Gas Sài Gòn — Sản phẩm Gas Sài Gòn",
+   "square": false
+  },
+  {
+   "id": "0c78d34252",
+   "category": "all",
+   "path": "banners/v1/all/0c78d34252.webp",
+   "alt": "Banner Gas Sài Gòn — Sản phẩm Gas Sài Gòn",
+   "square": false
+  },
+  {
+   "id": "9d72b2f653",
+   "category": "all",
+   "path": "banners/v1/all/9d72b2f653.webp",
+   "alt": "Banner Gas Sài Gòn — Sản phẩm Gas Sài Gòn",
+   "square": false
+  },
+  {
+   "id": "6108aaf1ec",
+   "category": "all",
+   "path": "banners/v1/all/6108aaf1ec.webp",
+   "alt": "Banner Gas Sài Gòn — Sản phẩm Gas Sài Gòn",
+   "square": false
+  },
+  {
+   "id": "24227c6122",
+   "category": "all",
+   "path": "banners/v1/all/24227c6122.webp",
+   "alt": "Banner Gas Sài Gòn — Sản phẩm Gas Sài Gòn",
+   "square": false
+  },
+  {
+   "id": "939d4c23e2",
+   "category": "all",
+   "path": "banners/v1/all/939d4c23e2.webp",
+   "alt": "Banner Gas Sài Gòn — Sản phẩm Gas Sài Gòn",
+   "square": false
+  },
+  {
+   "id": "659d17c90f",
+   "category": "all",
+   "path": "banners/v1/all/659d17c90f.webp",
+   "alt": "Banner Gas Sài Gòn — Sản phẩm Gas Sài Gòn",
+   "square": false
+  },
+  {
+   "id": "3ea66fbe22",
+   "category": "all",
+   "path": "banners/v1/all/3ea66fbe22.webp",
+   "alt": "Banner Gas Sài Gòn — Sản phẩm Gas Sài Gòn",
+   "square": false
+  },
+  {
+   "id": "50fed5e4fd",
+   "category": "all",
+   "path": "banners/v1/all/50fed5e4fd.webp",
+   "alt": "Banner Gas Sài Gòn — Sản phẩm Gas Sài Gòn",
+   "square": false
+  },
+  {
+   "id": "5a3b7afff0",
+   "category": "all",
+   "path": "banners/v1/all/5a3b7afff0.webp",
+   "alt": "Banner Gas Sài Gòn — Sản phẩm Gas Sài Gòn",
+   "square": false
+  },
+  {
+   "id": "6118e7b060",
+   "category": "all",
+   "path": "banners/v1/all/6118e7b060.webp",
+   "alt": "Banner Gas Sài Gòn — Sản phẩm Gas Sài Gòn",
+   "square": false
+  },
+  {
+   "id": "08f41b7115",
+   "category": "all",
+   "path": "banners/v1/all/08f41b7115.webp",
+   "alt": "Banner Gas Sài Gòn — Sản phẩm Gas Sài Gòn",
+   "square": false
+  },
+  {
+   "id": "47052686d9",
+   "category": "all",
+   "path": "banners/v1/all/47052686d9.webp",
+   "alt": "Banner Gas Sài Gòn — Sản phẩm Gas Sài Gòn",
+   "square": false
+  },
+  {
+   "id": "a49f5a2ff1",
+   "category": "all",
+   "path": "banners/v1/all/a49f5a2ff1.webp",
+   "alt": "Banner Gas Sài Gòn — Sản phẩm Gas Sài Gòn",
+   "square": false
+  },
+  {
+   "id": "c0d1b7e1bb",
+   "category": "all",
+   "path": "banners/v1/all/c0d1b7e1bb.webp",
+   "alt": "Banner Gas Sài Gòn — Sản phẩm Gas Sài Gòn",
+   "square": false
+  },
+  {
+   "id": "c8e7537a0f",
+   "category": "all",
+   "path": "banners/v1/all/c8e7537a0f.webp",
+   "alt": "Banner Gas Sài Gòn — Sản phẩm Gas Sài Gòn",
+   "square": false
+  },
+  {
+   "id": "122e6a3e62",
+   "category": "all",
+   "path": "banners/v1/all/122e6a3e62.webp",
+   "alt": "Banner Gas Sài Gòn — Sản phẩm Gas Sài Gòn",
+   "square": false
+  },
+  {
+   "id": "3fb381240e",
+   "category": "all",
+   "path": "banners/v1/all/3fb381240e.webp",
+   "alt": "Banner Gas Sài Gòn — Sản phẩm Gas Sài Gòn",
+   "square": false
+  },
+  {
+   "id": "8381d13702",
+   "category": "all",
+   "path": "banners/v1/all/8381d13702.webp",
+   "alt": "Banner Gas Sài Gòn — Sản phẩm Gas Sài Gòn",
+   "square": false
+  },
+  {
+   "id": "1b5cea4cd6",
+   "category": "all",
+   "path": "banners/v1/all/1b5cea4cd6.webp",
+   "alt": "Banner Gas Sài Gòn — Sản phẩm Gas Sài Gòn",
+   "square": false
+  },
+  {
+   "id": "0548ecc808",
+   "category": "all",
+   "path": "banners/v1/all/0548ecc808.webp",
+   "alt": "Banner Gas Sài Gòn — Sản phẩm Gas Sài Gòn",
+   "square": false
+  },
+  {
+   "id": "b69599c7ee",
+   "category": "all",
+   "path": "banners/v1/all/b69599c7ee.webp",
+   "alt": "Banner Gas Sài Gòn — Sản phẩm Gas Sài Gòn",
+   "square": false
+  },
+  {
+   "id": "d66f980225",
+   "category": "equipment",
+   "path": "banners/v1/equipment/d66f980225.webp",
+   "alt": "Banner Gas Sài Gòn — Thiết bị và phụ kiện",
+   "square": true
+  },
+  {
+   "id": "287fac81a8",
+   "category": "equipment",
+   "path": "banners/v1/equipment/287fac81a8.webp",
+   "alt": "Banner Gas Sài Gòn — Thiết bị và phụ kiện",
+   "square": true
+  },
+  {
+   "id": "4821ab4670",
+   "category": "equipment",
+   "path": "banners/v1/equipment/4821ab4670.webp",
+   "alt": "Banner Gas Sài Gòn — Thiết bị và phụ kiện",
+   "square": true
+  },
+  {
+   "id": "628d03dead",
+   "category": "equipment",
+   "path": "banners/v1/equipment/628d03dead.webp",
+   "alt": "Banner Gas Sài Gòn — Thiết bị và phụ kiện",
+   "square": true
+  },
+  {
+   "id": "2fb19ed998",
+   "category": "equipment",
+   "path": "banners/v1/equipment/2fb19ed998.webp",
+   "alt": "Banner Gas Sài Gòn — Thiết bị và phụ kiện",
+   "square": true
+  },
+  {
+   "id": "3f8c02ddf1",
+   "category": "equipment",
+   "path": "banners/v1/equipment/3f8c02ddf1.webp",
+   "alt": "Banner Gas Sài Gòn — Thiết bị và phụ kiện",
+   "square": true
+  },
+  {
+   "id": "375e6df8d8",
+   "category": "equipment",
+   "path": "banners/v1/equipment/375e6df8d8.webp",
+   "alt": "Banner Gas Sài Gòn — Thiết bị và phụ kiện",
+   "square": true
+  },
+  {
+   "id": "5e9f828903",
+   "category": "equipment",
+   "path": "banners/v1/equipment/5e9f828903.webp",
+   "alt": "Banner Gas Sài Gòn — Thiết bị và phụ kiện",
+   "square": true
+  }
+ ]
+}
