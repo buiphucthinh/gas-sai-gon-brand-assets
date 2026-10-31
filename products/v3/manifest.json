@@ -1,0 +1,861 @@
+{
+  "version": 3,
+  "count": 50,
+  "productCount": 49,
+  "composition": "Finished branded product artwork: original real product photograph plus the approved Gas Sai Gon background and stacked logo. Render directly as one image; do not apply the v2 source-photo mask, another background, or another logo.",
+  "originalPhotoVersion": 2,
+  "originalPhotosPreserved": true,
+  "sourceDetailNotice": "Artwork is 1080x1080, but does not claim new photographic detail. Enlargement is limited to 2x. The small original brass regulator photo remains optically soft; original printed marks and small source edge colour may remain to preserve real product detail.",
+  "images": [
+    {
+      "id": "img-001c0d77930f",
+      "path": "products/v3/img-001c0d77930f.webp",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 187984,
+      "sha256": "95ef1dd30b00aa80ec14ad8cca5f1165df9bdb9aaa732ddab3c0638bfb94da26",
+      "products": [
+        {
+          "id": "web-2522",
+          "name": "Bình Gas Dầu Khí Màu Xám 12kg",
+          "primary": true,
+          "role": "main",
+          "sourceUrl": "https://gassaigon.com.vn/binh-gas-dau-khi-mau-xam-12kg/"
+        }
+      ]
+    },
+    {
+      "id": "img-02a401bed719",
+      "path": "products/v3/img-02a401bed719.webp",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 240650,
+      "sha256": "24108d43e296b2b8c4e9a603003eb181c13e580a749c9440e9ce48646ba4fb25",
+      "products": [
+        {
+          "id": "web-2779",
+          "name": "Bình Gas VT Màu Xanh Đen 12kg",
+          "primary": true,
+          "role": "main",
+          "sourceUrl": "https://gassaigon.com.vn/binh-gas-vt-mau-xanh-den-12kg/"
+        }
+      ]
+    },
+    {
+      "id": "img-04ea8f2ff560",
+      "path": "products/v3/img-04ea8f2ff560.webp",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 225232,
+      "sha256": "31e03548e88a29c5b231acad6dbd15f0c466f868623b69fe6cf962512479069e",
+      "products": [
+        {
+          "id": "web-2777",
+          "name": "Bình Gas Dầu Khí Màu Hồng 20kg",
+          "primary": true,
+          "role": "main",
+          "sourceUrl": "https://gassaigon.com.vn/binh-gas-dau-khi-mau-hong-20kg/"
+        }
+      ]
+    },
+    {
+      "id": "img-0c0168361d98",
+      "path": "products/v3/img-0c0168361d98.webp",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 206602,
+      "sha256": "d7fb603cf37c642c1caf79d739dd960afb3e42cf44674a2d3a55b8e8832c2c6e",
+      "products": [
+        {
+          "id": "web-2638",
+          "name": "Bếp Gas Đôi Namilux 2163",
+          "primary": true,
+          "role": "main",
+          "sourceUrl": "https://gassaigon.com.vn/bep-gas-doi-namilux-2163/"
+        }
+      ]
+    },
+    {
+      "id": "img-119c51acc408",
+      "path": "products/v3/img-119c51acc408.webp",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 234494,
+      "sha256": "b4b20211f37a58a4c646816581556566158b18ac19215e6aaa0061eb429a2303",
+      "products": [
+        {
+          "id": "web-2650",
+          "name": "Bếp Gas Đôi Zenne KGS 301C",
+          "primary": true,
+          "role": "main",
+          "sourceUrl": "https://gassaigon.com.vn/bep-gas-doi-zenne-kgs-301c/"
+        }
+      ]
+    },
+    {
+      "id": "img-1aeb5fa9e1fd",
+      "path": "products/v3/img-1aeb5fa9e1fd.webp",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 215354,
+      "sha256": "4a182e5159edc98c6a2ae3ecf37467786bbbaed307a0b5fc5da8e5a1a60e7e56",
+      "products": [
+        {
+          "id": "web-2644",
+          "name": "Bếp Gas Đôi Namilux DL2063",
+          "primary": true,
+          "role": "main",
+          "sourceUrl": "https://gassaigon.com.vn/bep-gas-doi-namilux-dl2063/"
+        }
+      ]
+    },
+    {
+      "id": "img-1bd7d830f919",
+      "path": "products/v3/img-1bd7d830f919.webp",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 199388,
+      "sha256": "e5a99a98408dc193af38a9cb3db1ca284ac8ad7677b70f0e9928cfecfef29b9a",
+      "products": [
+        {
+          "id": "web-2646",
+          "name": "Bếp Gas Đôi Paloma PA-V72ES",
+          "primary": true,
+          "role": "main",
+          "sourceUrl": "https://gassaigon.com.vn/bep-gas-doi-paloma-pa-v72es/"
+        }
+      ]
+    },
+    {
+      "id": "img-1da299f57ff3",
+      "path": "products/v3/img-1da299f57ff3.webp",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 226344,
+      "sha256": "a2bc0e7fd2fc27013dd63efd38388c2b0f429ef2020bf92981294758ba97a130",
+      "products": [
+        {
+          "id": "web-2648",
+          "name": "Bếp Ga Đôi Paloma PA-209J",
+          "primary": true,
+          "role": "main",
+          "sourceUrl": "https://gassaigon.com.vn/bep-ga-doi-paloma-pa-209j/"
+        }
+      ]
+    },
+    {
+      "id": "img-1f909840d101",
+      "path": "products/v3/img-1f909840d101.webp",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 253382,
+      "sha256": "7f370142d8c22fbb4ebbf126532635c71d8d7792ad72dd7f0e6db512a7d98c2d",
+      "products": [
+        {
+          "id": "web-2775",
+          "name": "Bình VTGas Màu Đỏ 12kg",
+          "primary": true,
+          "role": "main",
+          "sourceUrl": "https://gassaigon.com.vn/binh-vtgas-mau-do-12kg/"
+        }
+      ]
+    },
+    {
+      "id": "img-259c14abc5d8",
+      "path": "products/v3/img-259c14abc5d8.webp",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 215196,
+      "sha256": "614c764b5f2b26a7bba59fcbaadfbecd15ca09f7dadcb4f4a22c7ec7831c3f92",
+      "products": [
+        {
+          "id": "web-2574",
+          "name": "Thiết Bị Báo Rò Rỉ Gas Katsura KSA-C1 Nhập Khẩu Nhật Bản",
+          "primary": true,
+          "role": "main",
+          "sourceUrl": "https://gassaigon.com.vn/thiet-bi-bao-ro-ri-gas-katsura-ksa-c1-nhap-khau-nhat-ban/"
+        }
+      ]
+    },
+    {
+      "id": "img-263408123017",
+      "path": "products/v3/img-263408123017.webp",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 189026,
+      "sha256": "3f75941cbb98286abcd2edbeb0b311f1a24439a9d26322ebb2c278379bf99efa",
+      "products": [
+        {
+          "id": "web-2546",
+          "name": "Bếp Gas Âm Eurosun EU-GA205S",
+          "primary": true,
+          "role": "main",
+          "sourceUrl": "https://gassaigon.com.vn/bep-gas-am-eurosun-eu-ga205s/"
+        }
+      ]
+    },
+    {
+      "id": "img-2b1e4687f869",
+      "path": "products/v3/img-2b1e4687f869.webp",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 261406,
+      "sha256": "603cd48590910d41b5b155fac8abe33dd8cfb5ddc74e61bed2e9288e271d553e",
+      "products": [
+        {
+          "id": "web-2767",
+          "name": "Bình Gas Gia Đình Màu Xanh Biển 12kg",
+          "primary": true,
+          "role": "main",
+          "sourceUrl": "https://gassaigon.com.vn/binh-gas-gia-dinh-mau-xanh-bien-12kg/"
+        }
+      ]
+    },
+    {
+      "id": "img-2dac1d026616",
+      "path": "products/v3/img-2dac1d026616.webp",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 219354,
+      "sha256": "2c10d99639a0e0167136bca642210f328994fb3e83a72ccd03b1d20ac789be7b",
+      "products": [
+        {
+          "id": "web-2652",
+          "name": "Bếp Gas Đôi Zenne GSG 211G",
+          "primary": true,
+          "role": "main",
+          "sourceUrl": "https://gassaigon.com.vn/bep-ga-doi-9/"
+        }
+      ]
+    },
+    {
+      "id": "img-2fcde1fd4ae6",
+      "path": "products/v3/img-2fcde1fd4ae6.webp",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 219642,
+      "sha256": "ab1703051496dc1414d9249fed4fab213fb34cf4399cb3f9e7c65e7d01e09a3d",
+      "products": [
+        {
+          "id": "web-2550",
+          "name": "Bếp Công Nghiệp Windo 280C",
+          "primary": true,
+          "role": "main",
+          "sourceUrl": "https://gassaigon.com.vn/bep-cong-nghiep-windo-280c/"
+        }
+      ]
+    },
+    {
+      "id": "img-32b50b62b070",
+      "path": "products/v3/img-32b50b62b070.webp",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 199246,
+      "sha256": "8b2b5332a65a3f2bafde29bc6685652e0087dc6d32b1504357c255c6e0881737",
+      "products": [
+        {
+          "id": "web-2666",
+          "name": "Bình VT Gas Màu Xanh Đen 45kg",
+          "primary": true,
+          "role": "main",
+          "sourceUrl": "https://gassaigon.com.vn/binh-vt-gas-45kg-mau-xanh-den/"
+        }
+      ]
+    },
+    {
+      "id": "img-46f3b73b2a7b",
+      "path": "products/v3/img-46f3b73b2a7b.webp",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 214900,
+      "sha256": "fe80967c311df176a5089497190534f1aef6ad33d25897300545c87b4e415a8f",
+      "products": [
+        {
+          "id": "web-2544",
+          "name": "Bếp Gas Đôi Rinnai 375",
+          "primary": true,
+          "role": "main",
+          "sourceUrl": "https://gassaigon.com.vn/bep-gas-doi-rinnai-375/"
+        }
+      ]
+    },
+    {
+      "id": "img-506828f1eec2",
+      "path": "products/v3/img-506828f1eec2.webp",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 216360,
+      "sha256": "44eb1723efd7c1a46ea3cafec74613860b6defea9853fac8ec7e7561afa3e9d3",
+      "products": [
+        {
+          "id": "web-2642",
+          "name": "Bếp Đôi Paloma PA-5ME",
+          "primary": true,
+          "role": "main",
+          "sourceUrl": "https://gassaigon.com.vn/bep-doi-paloma-pa-5me/"
+        }
+      ]
+    },
+    {
+      "id": "img-579c5ee46ec9",
+      "path": "products/v3/img-579c5ee46ec9.webp",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 227650,
+      "sha256": "81b99041b058651041627c28e13e2a4519e5f2c4bb8a206b832e9d6fe5abf38f",
+      "products": [
+        {
+          "id": "web-2539",
+          "name": "Mini NaMilux Chính Hãng Mới 100%",
+          "primary": true,
+          "role": "main",
+          "sourceUrl": "https://gassaigon.com.vn/mini-namilux-chinh-hang-moi-100/"
+        }
+      ]
+    },
+    {
+      "id": "img-703c4d374351",
+      "path": "products/v3/img-703c4d374351.webp",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 197856,
+      "sha256": "02423e21bb5d60060f865c3a756839a04980354d8976afa4c597736d5457806a",
+      "products": [
+        {
+          "id": "web-2525",
+          "name": "Bình Gas Dầu Khí Màu Hồng 45kg",
+          "primary": true,
+          "role": "main",
+          "sourceUrl": "https://gassaigon.com.vn/binh-gas-dau-khi-mau-hong-45kg/"
+        }
+      ]
+    },
+    {
+      "id": "img-746195677257",
+      "path": "products/v3/img-746195677257.webp",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 302036,
+      "sha256": "efc34b0384c2b77e7da302f47c932cf9fc1a28ddf9a6ec2f001ddaf354d1e1f1",
+      "products": [
+        {
+          "id": "web-2556",
+          "name": "Bếp Gas Đơn Namilux Inox",
+          "primary": true,
+          "role": "main",
+          "sourceUrl": "https://gassaigon.com.vn/bep-gas-don-namilux-inox/"
+        }
+      ]
+    },
+    {
+      "id": "img-7ab2c61f2486",
+      "path": "products/v3/img-7ab2c61f2486.webp",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 230926,
+      "sha256": "112be7c868e2c850b4a61f4d422f425c1492cae8585c58fe7555502f74c772ee",
+      "products": [
+        {
+          "id": "web-2529",
+          "name": "Bình Gas Petrolimex 12kg Van Đứng",
+          "primary": true,
+          "role": "main",
+          "sourceUrl": "https://gassaigon.com.vn/binh-gas-petrolimex-12kg-van-dung/"
+        }
+      ]
+    },
+    {
+      "id": "img-7e15a9092cb0",
+      "path": "products/v3/img-7e15a9092cb0.webp",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 203846,
+      "sha256": "6b40124e15cd0c316b560f4fdae748a898f1c5429874ed2211b8c22c18e889bd",
+      "products": [
+        {
+          "id": "web-2576",
+          "name": "Giá Van Điều Áp Elf Gas",
+          "primary": true,
+          "role": "main",
+          "sourceUrl": "https://gassaigon.com.vn/gia-van-dieu-ap-gas-namilux-na-337s-vn/"
+        }
+      ]
+    },
+    {
+      "id": "img-827750d69eac",
+      "path": "products/v3/img-827750d69eac.webp",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 256188,
+      "sha256": "597860efc83640fe784c38ecd14a9aafe5478c53a68148a4432adb245727d99b",
+      "products": [
+        {
+          "id": "web-2527",
+          "name": "Bình Gas Dầu Khí Đỏ 6Kg",
+          "primary": true,
+          "role": "main",
+          "sourceUrl": "https://gassaigon.com.vn/binh-gas-dau-khi-do-6kg/"
+        }
+      ]
+    },
+    {
+      "id": "img-8e4cabf0ffc9",
+      "path": "products/v3/img-8e4cabf0ffc9.webp",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 307662,
+      "sha256": "c1a7414a5e5645b149bd620a377e7050cc82060d61720559714a231a3fa31ee9",
+      "products": [
+        {
+          "id": "web-2572",
+          "name": "Kiềng Tiết Kiệm Gas Chất Lượng Cao",
+          "primary": true,
+          "role": "main",
+          "sourceUrl": "https://gassaigon.com.vn/kieng-tiet-kiem-gas-chat-luong-cao/"
+        }
+      ]
+    },
+    {
+      "id": "img-8f1a871cd506",
+      "path": "products/v3/img-8f1a871cd506.webp",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 260578,
+      "sha256": "e075053f73c7adedbb652744549e2a1f5d65d28a6165b7367df416cce971c6a6",
+      "products": [
+        {
+          "id": "web-2548",
+          "name": "Bếp Khè Windo 168",
+          "primary": true,
+          "role": "main",
+          "sourceUrl": "https://gassaigon.com.vn/bep-khe-windo-168/"
+        }
+      ]
+    },
+    {
+      "id": "img-8f803175d35d",
+      "path": "products/v3/img-8f803175d35d.webp",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 229828,
+      "sha256": "7175bc5023ef7dfc07611c06683f3408265da3fdde725d9eee5f2832518ad0eb",
+      "products": [
+        {
+          "id": "web-2636",
+          "name": "Bếp Ga Đôi Namilux 590",
+          "primary": true,
+          "role": "main",
+          "sourceUrl": "https://gassaigon.com.vn/bep-ga-doi/"
+        }
+      ]
+    },
+    {
+      "id": "img-903cbcbf565b",
+      "path": "products/v3/img-903cbcbf565b.webp",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 226630,
+      "sha256": "288c6549261119de481e5c089ed8753d2ca162b9435b199c5cc5da64112670e3",
+      "products": [
+        {
+          "id": "web-2792",
+          "name": "Bình Gia Đình Gas Màu Xanh Đen 12kg",
+          "primary": true,
+          "role": "main",
+          "sourceUrl": "https://gassaigon.com.vn/binh-gia-dinh-gas-mau-xanh-den-12kg/"
+        }
+      ]
+    },
+    {
+      "id": "img-90842804b430",
+      "path": "products/v3/img-90842804b430.webp",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 217612,
+      "sha256": "4783a1cb3dfa186a0d6eb74d01979680b38f102720c7d9a75b92c50c728bb3c4",
+      "products": [
+        {
+          "id": "web-2554",
+          "name": "Bếp Gas Đôi Rinnai 370",
+          "primary": true,
+          "role": "main",
+          "sourceUrl": "https://gassaigon.com.vn/bep-gas-duong-bluestar-ng-3200/"
+        }
+      ]
+    },
+    {
+      "id": "img-917b406e63f6",
+      "path": "products/v3/img-917b406e63f6.webp",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 219628,
+      "sha256": "e39c140097b8418be006050ccb5a525f707a5aca2569df64b0293fef4434c4c5",
+      "products": [
+        {
+          "id": "web-2570",
+          "name": "Van Điều Áp Katsura Nhật Bản Chính Hãng",
+          "primary": true,
+          "role": "main",
+          "sourceUrl": "https://gassaigon.com.vn/day-dan-gas-katsura-nhat-ban-chinh-hang/"
+        }
+      ]
+    },
+    {
+      "id": "img-957eb0dd32d9",
+      "path": "products/v3/img-957eb0dd32d9.webp",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 233272,
+      "sha256": "87372ed76db282468d8175755d79ae6bdbf7b893eefe4d07586972b75b5f4984",
+      "products": [
+        {
+          "id": "web-2781",
+          "name": "Bình Gas Saigon Petro Xàu Xám 12kg",
+          "primary": true,
+          "role": "main",
+          "sourceUrl": "https://gassaigon.com.vn/binh-gas-saigon-petro-xau-xam-12kg/"
+        }
+      ]
+    },
+    {
+      "id": "img-981a322a43d0",
+      "path": "products/v3/img-981a322a43d0.webp",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 308768,
+      "sha256": "2376470f5ed286c6f0962dd4ae1c8d6c376517029cb8b81af6e911c3f7974df3",
+      "products": [
+        {
+          "id": "web-2566",
+          "name": "Bếp Ga Mini Namilux NA-194AS-VN",
+          "primary": true,
+          "role": "main",
+          "sourceUrl": "https://gassaigon.com.vn/bep-ga-mini-namilux-na-194as-vn/"
+        }
+      ]
+    },
+    {
+      "id": "img-9aeffa1cff46",
+      "path": "products/v3/img-9aeffa1cff46.webp",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 244078,
+      "sha256": "90b64b57634475d9590c3a4f9d3eb2ba5246c7d52898fafabfd71172876af3d9",
+      "products": [
+        {
+          "id": "web-2520",
+          "name": "Bình Gas Dầu Khí Màu Đỏ 12kg",
+          "primary": true,
+          "role": "main",
+          "sourceUrl": "https://gassaigon.com.vn/binh-gas-dau-khi-mau-do-12kg/"
+        }
+      ]
+    },
+    {
+      "id": "img-9df681c84ada",
+      "path": "products/v3/img-9df681c84ada.webp",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 251268,
+      "sha256": "5f604f3800e64819619581075f7ddf59a7d9292e3bae61ec977defdf1388782f",
+      "products": [
+        {
+          "id": "web-2533",
+          "name": "Bình VT Gas Màu Đỏ 6kg",
+          "primary": true,
+          "role": "main",
+          "sourceUrl": "https://gassaigon.com.vn/binh-vt-gas-mau-do-6kg/"
+        }
+      ]
+    },
+    {
+      "id": "img-a55bf5b12979",
+      "path": "products/v3/img-a55bf5b12979.webp",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 259546,
+      "sha256": "c9f7b4c7b397611b28171755509658f65f0688c5ec8987c0a4865340f27bd332",
+      "products": [
+        {
+          "id": "web-2582",
+          "name": "Bình Gas Saigon Petro Màu Đỏ 12kg",
+          "primary": true,
+          "role": "main",
+          "sourceUrl": "https://gassaigon.com.vn/binh-gas-saigon-petro-mau-do-12kg/"
+        }
+      ]
+    },
+    {
+      "id": "img-a7a952f5dc0e",
+      "path": "products/v3/img-a7a952f5dc0e.webp",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 264686,
+      "sha256": "448d07150d6a5be934b5920df4d2c8acacc22f8fbc475be4c3b1725ff8a39fd2",
+      "products": [
+        {
+          "id": "web-2788",
+          "name": "Bình Gia Đình Gas Màu Đỏ 12kg",
+          "primary": true,
+          "role": "main",
+          "sourceUrl": "https://gassaigon.com.vn/binh-gia-dinh-gas-mau-do-12kg/"
+        }
+      ]
+    },
+    {
+      "id": "img-a9c8962dd32f",
+      "path": "products/v3/img-a9c8962dd32f.webp",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 237368,
+      "sha256": "2bac56b7d10ee3da30c926bbf46e201deed0298db680cfdaf2e4b3f4da73e282",
+      "products": [
+        {
+          "id": "web-2784",
+          "name": "Bình Elf Gas Màu Đỏ 12.5kg",
+          "primary": true,
+          "role": "main",
+          "sourceUrl": "https://gassaigon.com.vn/binh-elf-gas-mau-do-12-5kg/"
+        }
+      ]
+    },
+    {
+      "id": "img-b243e8770d39",
+      "path": "products/v3/img-b243e8770d39.webp",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 245598,
+      "sha256": "af87f144717e440ead4e22e3d6be4c1ecf69d454dc17017a9aa1e3582f24b977",
+      "products": [
+        {
+          "id": "web-2640",
+          "name": "Bếp Gas Đôi Namilux 703",
+          "primary": true,
+          "role": "main",
+          "sourceUrl": "https://gassaigon.com.vn/bep-gas-doi-namilux-703/"
+        }
+      ]
+    },
+    {
+      "id": "img-b72f54429e00",
+      "path": "products/v3/img-b72f54429e00.webp",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 210754,
+      "sha256": "90628effe1af240b69af8eaacc32c9ece1fa236d593e0503af87867d91357344",
+      "products": [
+        {
+          "id": "web-2552",
+          "name": "Bếp Ga Dương Đôi Mặt Inox NaMilux NS-290S",
+          "primary": true,
+          "role": "main",
+          "sourceUrl": "https://gassaigon.com.vn/bep-ga-duong-doi-mat-inox-namilux-ns-290s/"
+        }
+      ]
+    },
+    {
+      "id": "img-b94059f237fe",
+      "path": "products/v3/img-b94059f237fe.webp",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 248680,
+      "sha256": "598539b750202af9af7bba7fec9e8b9e6a649ba89541333e4696d29bc13bb0d9",
+      "products": [
+        {
+          "id": "web-2773",
+          "name": "Bình Gas Dầu Khí Màu Hồng 12kg",
+          "primary": true,
+          "role": "main",
+          "sourceUrl": "https://gassaigon.com.vn/binh-gas-dau-khi-mau-hong-12kg/"
+        }
+      ]
+    },
+    {
+      "id": "img-bcb8802b38f5",
+      "path": "products/v3/img-bcb8802b38f5.webp",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 233864,
+      "sha256": "1bb58fa9068855f5015267f18b11d75a39f5f6f18dce9260a16ecf96a42fae00",
+      "products": [
+        {
+          "id": "web-2531",
+          "name": "Bình Gas Dầu Khí Màu Vàng 12kg",
+          "primary": true,
+          "role": "main",
+          "sourceUrl": "https://gassaigon.com.vn/binh-gas-dau-khi-mau-vang-12kg/"
+        }
+      ]
+    },
+    {
+      "id": "img-bdecd9223f65",
+      "path": "products/v3/img-bdecd9223f65.webp",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 262816,
+      "sha256": "db21164e2e09b9a2ee77fdb08de9176f86d3ddc92c3e59523e4b81554e5d62aa",
+      "products": [
+        {
+          "id": "web-2786",
+          "name": "Bình Gia Đình Gas Màu Vàng 12kg",
+          "primary": true,
+          "role": "main",
+          "sourceUrl": "https://gassaigon.com.vn/binh-gia-dinh-gas-mau-vang-12kg/"
+        }
+      ]
+    },
+    {
+      "id": "img-c5a8669479b4",
+      "path": "products/v3/img-c5a8669479b4.webp",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 278502,
+      "sha256": "cba4efa40879c3b2cbf7628ffd6981c23bf08be734c5aca8c5fa488d05fd1993",
+      "products": [
+        {
+          "id": "web-2568",
+          "name": "Van Điều Áp Bình Xám Namilux Chính Hãng",
+          "primary": true,
+          "role": "main",
+          "sourceUrl": "https://gassaigon.com.vn/bo-van-day-gas-katsura-chinh-hang/"
+        }
+      ]
+    },
+    {
+      "id": "img-dbae891f8c8e",
+      "path": "products/v3/img-dbae891f8c8e.webp",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 248808,
+      "sha256": "11c4a2d794cea5a8c257108dcad7ff606bef42e495ea3b5aeb866b9297cb1e65",
+      "products": [
+        {
+          "id": "web-2578",
+          "name": "Giá Van Gas Petrolimex Hiệu Kabsons",
+          "primary": true,
+          "role": "main",
+          "sourceUrl": "https://gassaigon.com.vn/gia-van-gas-petrolimex-hieu-kabsons/"
+        }
+      ]
+    },
+    {
+      "id": "img-dd8f104eb726",
+      "path": "products/v3/img-dd8f104eb726.webp",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 291064,
+      "sha256": "142bea74fe8c0fcea0308f306aa52a072d0d5fd495498f9d1e8350208a89ff03",
+      "products": [
+        {
+          "id": "web-2558",
+          "name": "Bếp Gas Đơn Namilux Sơn Tĩnh Điện",
+          "primary": true,
+          "role": "main",
+          "sourceUrl": "https://gassaigon.com.vn/bep-gas-don-namilux-son-tinh-dien/"
+        }
+      ]
+    },
+    {
+      "id": "img-ed1fdadeeefe",
+      "path": "products/v3/img-ed1fdadeeefe.webp",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 250448,
+      "sha256": "c6ab2049a026ec3e88465bd26346a7205b83e557e362565a91a8a94cc4c7eb01",
+      "products": [
+        {
+          "id": "web-2564",
+          "name": "Bếp Ga Mini Bluestar NS-165S",
+          "primary": true,
+          "role": "main",
+          "sourceUrl": "https://gassaigon.com.vn/bep-ga-mini-bluestar-ns-165s/"
+        }
+      ]
+    },
+    {
+      "id": "img-efb7b874aa5d",
+      "path": "products/v3/img-efb7b874aa5d.webp",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 237558,
+      "sha256": "adcddaa1bf29b60d5c26de3b896ebfc8df71d65327e852cf0104852ee0cb040a",
+      "products": [
+        {
+          "id": "web-2790",
+          "name": "Bình Gia Đình Gas Màu Xám 12kg",
+          "primary": true,
+          "role": "main",
+          "sourceUrl": "https://gassaigon.com.vn/binh-gia-dinh-gas-mau-xam-12kg/"
+        }
+      ]
+    },
+    {
+      "id": "img-f223f2d69b2b",
+      "path": "products/v3/img-f223f2d69b2b.webp",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 272474,
+      "sha256": "e75accdc6ecee3448b371003361eeb1a77a215ed0425a58c8e1ec57eed383aae",
+      "products": [
+        {
+          "id": "web-2537",
+          "name": "Bluestar Chính Hãng An Toàn",
+          "primary": true,
+          "role": "main",
+          "sourceUrl": "https://gassaigon.com.vn/bluestar-chinh-hang-an-toan/"
+        }
+      ]
+    },
+    {
+      "id": "img-f4c55f1ef6a6",
+      "path": "products/v3/img-f4c55f1ef6a6.webp",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 295330,
+      "sha256": "85a1053cf3d25cf6dcfb36c41f0ed1aedc97eb7e3008094de005ad6d21f50d79",
+      "products": [
+        {
+          "id": "web-2794",
+          "name": "Bếp Gas Đôi Rinnai 365",
+          "primary": true,
+          "role": "main",
+          "sourceUrl": "https://gassaigon.com.vn/bep-gas-doi-rinnai-365/"
+        }
+      ]
+    },
+    {
+      "id": "img-f7ae5d5e13b2",
+      "path": "products/v3/img-f7ae5d5e13b2.webp",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 237464,
+      "sha256": "c2b48f2eb839c7b5190f9f556b355dcbc3f9237cb0a0650c22fee29483329803",
+      "products": [
+        {
+          "id": "web-2560",
+          "name": "Bếp Gas Đôi Mặt Kính Windo 8080",
+          "primary": true,
+          "role": "main",
+          "sourceUrl": "https://gassaigon.com.vn/bep-gas-doi-bluestar-ng-5680ci/"
+        }
+      ]
+    },
+    {
+      "id": "img-f87164d614a6",
+      "path": "products/v3/img-f87164d614a6.webp",
+      "width": 1080,
+      "height": 1080,
+      "bytes": 193278,
+      "sha256": "0585fe4e6bc0576b2808ba8597589108db185f5c6e17a07f13d5ceacd4b96686",
+      "products": [
+        {
+          "id": "web-2666",
+          "name": "Bình VT Gas Màu Xanh Đen 45kg",
+          "primary": false,
+          "role": "gallery",
+          "sourceUrl": "https://gassaigon.com.vn/binh-vt-gas-45kg-mau-xanh-den/"
+        }
+      ]
+    }
+  ]
+}
